@@ -1,0 +1,6 @@
+hub Tle3_bw
+shortLabel Tle3_bw
+longLabel Tle3_bw
+genomesFile genomes.txt
+email sungrye.park@hmh-cdi.org
+descriptionUrl descriptionUrl
