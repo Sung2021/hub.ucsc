@@ -1,0 +1,31 @@
+track WT_Tem
+shortLabel WT_Tem
+longLabel WT_Tem
+type bigWig
+bigDataUrl https://xue.s3.amazonaws.com/Tle3/BigWigs/wt_tem.scaled.bw 
+visibility full
+color 125,0,0
+
+track KO_Tem
+shortLabel KO_Tem
+longLabel KO_Tem
+type bigWig
+bigDataUrl https://xue.s3.amazonaws.com/Tle3/BigWigs/ko_tem.scaled.bw
+visibility full
+color 0,125,0
+
+track WT_Tcm
+shortLabel WT_Tcm
+longLabel WT_Tcm
+type bigWig
+bigDataUrl https://xue.s3.amazonaws.com/Tle3/BigWigs/wt_tcm.scaled.bw
+visibility full
+color 125,0,0
+
+track KO_Tcm
+shortLabel KO_Tcm
+longLabel KO_Tcm
+type bigWig
+bigDataUrl https://xue.s3.amazonaws.com/Tle3/BigWigs/ko_tcm.scaled.bw
+visibility full
+color 0,125,0
